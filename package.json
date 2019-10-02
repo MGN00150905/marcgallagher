@@ -2,6 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MGN00150905.github.io/marcgallagher",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.6.0",
